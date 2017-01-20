@@ -12,7 +12,6 @@ persist.vendor.audio.fluence.voicerec=false
 persist.vendor.audio.fluence.mode=broadside
 ro.vendor.audio.sdk.fluencetype=fluence
 
-audio.deep_buffer.media=true
 audio.offload.video=true
 vendor.audio.offload.buffer.size.kb=64
 vendor.audio.offload.gapless.enabled=true
